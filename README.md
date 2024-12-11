@@ -1,0 +1,7 @@
+-pedal
+- guidão
+- aros
+- peneus
+- corente
+- banco
+- pedivel
